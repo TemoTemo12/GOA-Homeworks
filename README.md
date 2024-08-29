@@ -95,7 +95,7 @@ I Learned Everything what i Know now and Still Learning This is Hard But Still d
 
 - 💬 Ask me about...Frontent Developer
 
-- 📫 How to reach me...temo92782@gmail.com
+- 📫 How to reach me...  temo92782@gmail.com
 
 - 😄 Pronouns...He/Him
 

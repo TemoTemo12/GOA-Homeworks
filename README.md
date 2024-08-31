@@ -48,7 +48,7 @@ Other Links Are Private
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, CSS, Py
 
 ## Soon Bootrstarp
 

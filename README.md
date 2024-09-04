@@ -32,7 +32,7 @@ A brief description of what this project does and who it's for
 
 
 ## 🔗 Links
-[![portfolio]() 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() 
 Portfolio isn't Available Until i Learn Bootstrap
 
 Other Links Are Private

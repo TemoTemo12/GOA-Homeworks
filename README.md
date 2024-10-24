@@ -1,4 +1,5 @@
-# everything was fine but Layout Messed Up And Some Files Got Deleted i dont know why (tried to fix but nothing happened) 
+# Ingore Summary
+# idk how to fix layout
 
 
 # Goa Homeworks
@@ -35,7 +36,7 @@ A brief description of what this project does and who it's for
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() 
-Portfolio isn't Available Until i Learn Bootstrap
+Portfolio isn't Available Until i Learn React and tailwind and other things
 
 Other Links Are Private
 
